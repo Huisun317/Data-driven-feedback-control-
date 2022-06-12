@@ -1,4 +1,4 @@
-# Data-driven-feedback-control-
+# Data-driven-feedback-control
 This repository contains the attempt for proof for the convergence of data driven feedback control algorithm with the strong convexity assumtption made on 
 the discretized gradient. 
 
